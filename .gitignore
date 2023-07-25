@@ -1,0 +1,7 @@
+venv
+pyproject.toml
+MathItVideos.egg-info
+__pycache__
+media
+banner_guide.jpg
+outro_guide.jpg
