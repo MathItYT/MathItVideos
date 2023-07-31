@@ -3,5 +3,8 @@ pyproject.toml
 MathItVideos.egg-info
 __pycache__
 media
+.env
 banner_guide.jpg
 outro_guide.jpg
+assets
+config.py
