@@ -1,4 +1,3 @@
-
 from channel import *
 from PIL import Image
 from pathlib import Path
