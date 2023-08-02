@@ -8,6 +8,7 @@ import os
 
 
 config.background_color = "#222222"
+config.assets_dir = "assets"
 Text.set_default(font="CMU Serif")
 config.tex_template_file = os.getenv("DEFAULT_TEX_TEMPLATE")
 config.tex_template.tex_compiler = "xelatex"
